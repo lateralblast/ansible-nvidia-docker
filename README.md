@@ -143,7 +143,7 @@ Add Docker repository:
     filename:     docker-ce
     update_cache: no
   register: docker_repo
-  when: and ansible_distribution_version == '18.04'
+  when: ansible_distribution_version == '18.04'
 
 - name: Check Base Docker Repository
   apt_repository:
