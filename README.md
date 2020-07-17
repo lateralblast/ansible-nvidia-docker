@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/lateralblast/ansible-grub-serial/master/images/cat_monitor.jpg)
+![alt tag](https://raw.githubusercontent.com/lateralblast/ansible-nvidia-docker/master/images/cat_monitor.jpg)
 
 Automating Nvidia Driver and Docker Support Installation with Ansible
 =====================================================================
