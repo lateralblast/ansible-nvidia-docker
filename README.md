@@ -171,7 +171,6 @@ Install Docker packages:
     update_cache: yes
   loop:
     - { package: "docker-ce",     state: "present" }
-    - { package: "docker-ce-cli", state: "present" }
     - { package: "containerd.io", state: "present" }
 ```
 
